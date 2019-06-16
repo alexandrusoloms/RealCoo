@@ -30,3 +30,7 @@
 *.exe
 *.out
 *.app
+
+# CLION IGNORES
+CMakeList.txt
+cmake-build-debug/*
