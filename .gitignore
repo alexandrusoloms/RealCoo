@@ -32,5 +32,5 @@
 *.app
 
 # CLION IGNORES
-CMakeList.txt
+CMakeLists.txt
 cmake-build-debug/*
